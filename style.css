@@ -13,3 +13,25 @@ header div h1 {
     color: white;
     margin: 0px;
 }
+
+main div {
+    background-color: whitesmoke;
+    text-align: center;
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+
+main article {
+    text-align: center;
+    margin-top: 30px;
+}
+
+main article button{
+    color: white;
+    background-color: tomato;
+    border-radius: 20px;
+    height: 40px;
+    width: 100px;
+}
